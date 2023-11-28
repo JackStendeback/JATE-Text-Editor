@@ -19,6 +19,7 @@ Jate Text Editor offers a clean and intuitive interface, syntax highlighting for
 Clone my project and then run 'npm run install'.
 
 ## Screenshots
+![examplePic](https://github.com/JackStendeback/Jate-Text-Editor/assets/129129990/25c17242-39b1-4954-8c55-f6565ee23b68)
 
 
 ## Links
